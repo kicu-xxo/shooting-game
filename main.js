@@ -6,7 +6,7 @@ canvas = document.createElement('canvas');
 ctx = canvas.getContext('2d');
 
 canvas.width = 400;
-canvas.height = 700;
+canvas.height = 650;
 
 document.body.appendChild(canvas);
 
