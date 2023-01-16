@@ -31,3 +31,7 @@
 방향키 ⬅ ➡ = 이동
 
 다시하기 = F5
+
+## 📸Screenshot📸
+
+<img src = './readme-img/shootimg-game-1.png'></img>
