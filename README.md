@@ -1,6 +1,8 @@
 ## 🎮슈팅 게임🎮
 
 방향키와 스페이스바로 간단하게 조작할 수 있는 게임입니다.
+</br>
+</br>
 
 ## ⚙기술 스택⚙
 
@@ -9,7 +11,8 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </p>
-
+</br>
+</br>
 ## 📒구현 설명📒
 
 자바스크립트의 캔버스를 사용해 구현한 슈팅 게임입니다.
@@ -24,6 +27,8 @@
 
 총알과 닿지 않은 적군이 캔버스의 하단까지 도착하면 게임이 끝나게 됩니다.
 
+</br>
+</br>
 ## 🕹조작법🕹
 
 스페이스바 = 공격
@@ -31,7 +36,11 @@
 방향키 ⬅ ➡ = 이동
 
 다시하기 = F5
+</br>
+</br>
 
 ## 📸Screenshot📸
 
-<img src = './readme-img/shootimg-game-1.png'></img>
+<img src = './readme-img/shooting-game-2.png'></img>
+</br>
+<img src = './readme-img/shooting-game-1.png'></img>
