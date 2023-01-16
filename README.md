@@ -41,6 +41,6 @@
 
 ## 📸Screenshot📸
 
-<img width="60%" alt="image" src="./readme-img/shooting-game-2.png">
+<img width="60%" alt="image" src="https://user-images.githubusercontent.com/121851869/212655747-9b746ff9-dae5-4746-942b-ea13074c772a.PNG">
 </br>
-<img width="60%" alt="image" src="./readme-img/shooting-game-1.png">
+<img width="60%" alt="image" src="https://user-images.githubusercontent.com/121851869/212655765-15f58ad9-fc76-421d-92d1-9e8852dc778b.PNG">
