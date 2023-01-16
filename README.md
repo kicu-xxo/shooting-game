@@ -41,6 +41,6 @@
 
 ## 📸Screenshot📸
 
-<img src = './readme-img/shooting-game-2.png'></img>
+<img width="60%" alt="image" src="./readme-img/shooting-game-2.png">
 </br>
-<img src = './readme-img/shooting-game-1.png'></img>
+<img width="60%" alt="image" src="./readme-img/shooting-game-1.png">
